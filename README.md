@@ -1,1 +1,1 @@
-# Decease-detection-of-plants-
+# Disease-detection-of-plants-using-CNN
